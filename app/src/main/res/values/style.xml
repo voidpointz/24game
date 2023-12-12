@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--所有组件样式-->
+<resources>
+<!--    卡牌样式-->
+    <style name="cardImage">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+<!--    按钮样式-->
+    <style name="cardText">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
